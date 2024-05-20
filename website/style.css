@@ -425,7 +425,8 @@ a{
 }
 .description h3 {
     text-transform: uppercase;
-    color: black;
+    color: white;
+    font-size: 25px;
 }
 
 .slide-container input {
